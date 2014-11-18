@@ -1,0 +1,4 @@
+JavaStaticAnalysisTest
+======================
+
+Test Coverity Scan
